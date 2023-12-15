@@ -1,0 +1,7 @@
+1.  My hope of the project will to help me budget and balance my money.  This program is split up into six different sections, three for the different locals of where I am storing my money, calculates the tax, has the option for credit for a credit card, and the totals of all the money going out.
+
+2.  This project is interesting to me because it would be useful.  When deciding a project I wanted to make something that would be useful and I could keep using instead of a game or something that I would discard after one or two uses.  I have also come to the realization that I need to be more mindful with how I use my money
+
+3.  I was able to complete all the parts I attempted to include.  There were a couple things I wanted to add, but I didn't even know how to organize it on paper.  So, the parts I was able to include were seperating my check into different areas based on percentage.  I was also able to include two different banks and a cash alternative.  I was also able include deductions as well, so it would be accurate for when I used money as well.
+
+4.  I learned a lot with this project.  I was able to fortify my understanding with many priinciples, like files.  I also learned how to organize my ideas and thoughts into actual code, because before, with all the other labs, I had a direction and had an idea of how to do it according to the reading.  However, with this project I had to think of something I wanted and how to create that in code, it took a few extra steps and revision, but I was able to do it.
